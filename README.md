@@ -45,9 +45,7 @@ In this study I'm search for any method to get array surely.
 
 <!-- SCREENSHOTS -->
 ## 📸  SCREENSHOTS <a name="screenshots"></a>
-<!-- 
-<img src="https://github.com/PaoloProdossimoLopes/repository-template/blob/main/README_ASSETS/SIMULADOR_LOADER.png" height="300">                                 <img src="https://github.com/PaoloProdossimoLopes/repository-template/blob/main/README_ASSETS/SIMULADOR_HOME.png" height="300">                               
--->
+<img src="https://github.com/PaoloProdossimoLopes/swift-safe-bounds-checked-array-study/blob/main/README_ASSETS/example.png" height="500">                                                   
 <p align="right">(<a href="#top">BACK TO TOP</a>)</p>
 
 
